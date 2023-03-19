@@ -6,4 +6,4 @@ An implementation of the paper [Convolutional Neural Networks for Sentence Class
 
 ### Paper Review
 
-[CNNs for Sentence Classification Review](https://github.com/EugeneRyu/NLP_CNNs_for_SC/wiki/%5BPaper-Review%5D-Convolutional-Neural-Networks-for-Sentence-Classification)
+[CNNs for Sentence Classification Review](https://github.com/eugene-ryu/NLP_CNNs_for_SC/wiki/%5BPaper-Review%5D-Convolutional-Neural-Networks-for-Sentence-Classification)
